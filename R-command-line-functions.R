@@ -28,3 +28,6 @@ file.exists("filename.R")
 
 # create file
 file.create("filename.R")  
+
+# open a file in R 
+file.edit("filename.R")
