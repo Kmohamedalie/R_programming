@@ -28,3 +28,5 @@ average <- colMeans(matrix.mat)
 total <- colSums(matrix.mat)
 print("row binding , orginal matrix.mat, average, total:")
 print(rbind(matrix.mat,average,total))
+
+# 
