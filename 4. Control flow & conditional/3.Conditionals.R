@@ -11,5 +11,8 @@ if (var > var2){
 } else if(var < var2) {
   print(paste(var, "is not greater than", var2))
 }else{
+  if ((4!=3) & (4 > 3)){
+    print(paste('(4!=3) & (4 > 3): ',(4!=3) & (4 > 3)))
+  }
   print(paste(var, "are equal", var2))
 }
