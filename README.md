@@ -6,7 +6,7 @@ Topics include:
 - [Data Structures in R](https://github.com/Kmohamedalie/R_programming/tree/master/1.%20Building%20blocks%20of%20R)
 - [Vectors](https://github.com/Kmohamedalie/R_programming/tree/master/2.%20Vectors%20and%20vector%20operations)
 - [Matrices](https://github.com/Kmohamedalie/R_programming/tree/master/3.%20Matrices)
-- [Conditional statements and logicals]()
+- [Conditional statements and logicals](https://github.com/Kmohamedalie/R_programming/tree/master/4.%20Control%20flow%20%26%20conditional)
 - [Data frames]()
 - [Manipulating data]()
 - [Visualizing data]()
