@@ -5,7 +5,7 @@ The course is taught by [365 Simona (The 365 Team)](https://www.udemy.com/user/s
 Topics include:
 - [Data Structures in R](https://github.com/Kmohamedalie/R_programming/tree/master/1.%20Building%20blocks%20of%20R)
 - [Vectors](https://github.com/Kmohamedalie/R_programming/tree/master/2.%20Vectors%20and%20vector%20operations)
-- [Matrices]()
+- [Matrices](https://github.com/Kmohamedalie/R_programming/tree/master/3.%20Matrices)
 - [Conditional statements and logicals]()
 - [Data frames]()
 - [Manipulating data]()
