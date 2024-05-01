@@ -2,10 +2,10 @@
 #                    Grammar of graphics                      #
 #*************************************************************#
 
-library(ggplot2)
 library(tidyverse)
+library(ggplot2)
 
-# hdi corruption index dataset
+# hdi corruption index data set
 hdi <- as_tibble(read.csv("hdi-cpi.csv"))
 #view(hdi)
 
