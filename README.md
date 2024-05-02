@@ -12,4 +12,4 @@ Topics include:
 - [Visualizing data](https://github.com/Kmohamedalie/R_programming/tree/master/7.%20Visualizing%20data)
 - [Exploratory data analysis](https://github.com/Kmohamedalie/R_programming/tree/master/8.%20Exploratory%20data%20analysis)
 - [Hypothesis Testing](https://github.com/Kmohamedalie/R_programming/tree/master/9.%20Hypothesis%20Testing)
-- [Linear Regression analysis]()
+- [Linear Regression analysis](https://github.com/Kmohamedalie/R_programming/tree/master/10.Linear%20Regression%20Analysis)
