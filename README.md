@@ -11,5 +11,5 @@ Topics include:
 - [Manipulating data](https://github.com/Kmohamedalie/R_programming/tree/master/6.%20Manipulating%20data)
 - [Visualizing data](https://github.com/Kmohamedalie/R_programming/tree/master/7.%20Visualizing%20data)
 - [Exploratory data analysis](https://github.com/Kmohamedalie/R_programming/tree/master/8.%20Exploratory%20data%20analysis)
-- [Hypothesis Testing]()
+- [Hypothesis Testing](https://github.com/Kmohamedalie/R_programming/tree/master/9.%20Hypothesis%20Testing)
 - [Linear Regression analysis]()
